@@ -1,0 +1,56 @@
+1)   Bug status is set to postpone due to ________. 
+a. Priority of that bug may low.
+b. Lack of time for the release.
+c. The bug may not be the major effect in the software.
+d. Data may be unavailable.
+
+
+
+2)   What are the skills that are required by the Agile Tester? 
+a. Domain knowledge
+b. Keen to learn and adopt new technology
+c. Effective communicator who maintains good relationship with development team
+d. All the above
+
+
+
+3)   Arrange the following scrum practices according to the order in which they are carried out.
+1. Sprint planning
+2. Daily scrum meet
+3. Sprint retrospective meet
+4. Sprint review meet
+5. Sprint 
+
+a. 1, 5, 2, 3, 4
+b. 1, 5, 2, 4, 3
+c. 1, 2, 5, 4, 3
+d. 1, 3, 2, 4, 5
+
+
+
+4)   When is Acceptance Testing performed in Agile development? 
+a. On request of customer
+b. After system is ready
+c. At the end of each iteration
+d. Daily
+
+
+
+5) What is the first activity in Software Project Planning?
+a. Determination of software scope
+b. Determination of budget
+c. Find out the team size
+d. None of the above
+
+
+
+
+6) Which Testing is performed first? 
+a. Black box testing
+b. White box testing
+c. Dynamic testing
+d. Static testing
+
+
+
+
